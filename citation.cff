@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software or the PMN-01 Model findings, please cite it as below."
+authors:
+- family-names: "Nieto Muñoz"
+  given-names: "Pablo Miguel"
+  orcid: "https://orcid.org/0009-0006-2884-9366"
+  linkedin: "https://www.linkedin.com/in/pablixnieto/"
+title: "Computational Fractal Cosmology: Statistical Evidence of Finite Topology in the Cosmic Microwave Background"
+version: 1.0.0
+doi: 10.5281/zenodo.18107271
+date-released: 2025-12-31
+url: "https://github.com/pablixnieto2/CCC_Fractal_Analysis"
+keywords:
+  - cosmology
+  - planck-satellite
+  - topology
+  - dodecahedron
+  - dark-energy
+  - python
+license: MIT
