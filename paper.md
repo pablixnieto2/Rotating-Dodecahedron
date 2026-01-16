@@ -33,7 +33,9 @@ The software includes a suite of tools for:
 
 Researchers analyzing Planck PR4 data [@Planck:2020] often lack tools to detect linear topological defects ("scars"). Standard Gaussian analysis effectively filters out these linear discontinuities, treating them as noise. `Cosmic-Scanner` solves this by treating the CMB analysis as a computer vision and graph theory problem, rather than a purely statistical one.
 
-This software was instrumental in the research paper "Computational Fractal Cosmology" [@Nieto:2025], identifying potential evidence of a dodecahedral topology with high statistical significance ($82.98\sigma$). While developed for the search of cosmic topology, specifically the Poincaré Dodecahedral Space [@Luminet:2003], the algorithms are agnostic and can be applied to any spherical dataset requiring ridge detection or geometric pattern matching.
+This software was instrumental in the research paper "Computational Fractal Cosmology" [@Nieto:2025], identifying evidence of a **rotating dodecahedral topology** with high statistical significance ($82.98\sigma$). While developed for the search of cosmic topology, specifically the Poincaré Dodecahedral Space [@Luminet:2003], the algorithms are agnostic and can be applied to any spherical dataset.
+
+Furthermore, these tools allowed for the calculation of the **observer's precise location** within the fundamental domain and provided a novel geometric interpretation for **Dark Energy** based on universal rotation and holographic entropy calculation.
 
 # Key Features
 
